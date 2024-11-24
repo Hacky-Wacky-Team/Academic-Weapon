@@ -4,7 +4,6 @@
 > Submission to NightHacks 2023
 >
 > Become the academic weapon. 🗡️ Studying Tips, Motivational Quotes, To-dos And More! 🧠
-
 <img width="120" alt="logo" src="https://github.com/user-attachments/assets/b28932f3-5e00-474c-af39-e384153423c2">
 
 <br>
@@ -27,6 +26,8 @@ Inspired by other apps and programs online that help students with studying. We 
 
 ## Our Future 🚀
 We plan to add more features in the future such as flashcards/create your own quiz to help with studying and a study music feature where it can recommend playlists and join voice channels and play music.
+
+<br>
 
 # Gallery ⭐️
 <img width="600" alt="preview" src="https://github.com/user-attachments/assets/c819d168-538e-4762-925f-34328082e2d1">
