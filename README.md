@@ -4,7 +4,7 @@
 > Submission to NightHacks 2023
 
 ## Video
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TP3l7_nPQE?si=QZuXV1xSZ8oGOSnx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Inspiration
 Inspired by other apps and programs online that help students with studying. We instantly thought that Discord users would need something as well to do all their studying within Discord.
