@@ -14,7 +14,7 @@
 alt="academic weapon youtube video" width="800" height="450" border="10" /></a>
 
 <br>
-
+ 
 ## What it does 📖
 The Academic Weapon bot aims to support and help students with their academics and organize their lives. It can create reminders, to-do lists, timetables, calculate your average grade, list study resources, and more.
 
